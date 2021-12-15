@@ -1,6 +1,6 @@
 # Stock-Price-Prediction-using-LSTM
 
-## Introduction
+## Abstrct
 
 Stock prediction has historically been the attention of trade and world. Its 
 volatility is difficult for the stock market and nonlinear. It’s unreliable and 
